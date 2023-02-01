@@ -1,5 +1,5 @@
 
-[2/1, 12:56 PM] Shital: Index.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
